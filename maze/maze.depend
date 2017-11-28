@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511870108 source:/home/neda/Desktop/maze/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
